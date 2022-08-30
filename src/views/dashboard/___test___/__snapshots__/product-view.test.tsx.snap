@@ -1,0 +1,13 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ProductView matches snapshot 1`] = `
+<h2>
+  No Product Found
+</h2>
+`;
+
+exports[`text matches snapshot 1`] = `
+<h2>
+  No Product Found
+</h2>
+`;
